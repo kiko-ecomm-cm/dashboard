@@ -19,7 +19,5 @@ Leia **docs/IMPLANTACAO.md**. Execute o SQL antes de subir a aplicação.
 - `src/`: frontend React/Vite
 - `src/parse.js`: leitor de exportações Google/Meta
 - `supabase/schema.sql`: tabelas, políticas RLS, armazenamento
-- `wrangler.jsonc`: referência de implantação Cloudflare
-- `.env.example`: variáveis públicas
 
 Não há credenciais, senhas ou segredos no pacote.
